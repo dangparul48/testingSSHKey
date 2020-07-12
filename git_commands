@@ -5,3 +5,4 @@ git push		: To push the files to the git server
 git branch		: To know the current branch where you're in
 git status		: To know the status of git branch/repo
 git checkout -b "bname"	: To create a new branch and switch to it
+git pull		: To pull the changes from the git repo
